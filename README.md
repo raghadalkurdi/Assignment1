@@ -7,7 +7,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part1.py](Part1.py)
 * **Program Output:**
 
-![Part 1 Output](part1.png)
+![Part 1 Output](Part1.png)
 
 ---
 ## Part 2: List Operations
@@ -15,7 +15,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part2.py](Part2.py)
 * **Program Output:**
 
-![Part 2 Output](part2.png)
+![Part 2 Output](Part2.png)
 ---
 
 ## Part 3:Tuple
@@ -23,7 +23,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part3.py](Part3.py)
 * **Program Output:**
 
-![Part 3 Output](part3.png)
+![Part 3 Output](Part3.png)
 
 ### Why is a Tuple Different from a List?
 
@@ -42,7 +42,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part4.py](Part4.py)
 * **Program Output:**
 
-![Part 4 Output](part4.png)
+![Part 4 Output](Part4.png)
 
 ### Why Did Some Values Disappear?
 
@@ -56,11 +56,10 @@ When converting the list `[1, 2, 3, 4, 2, 5, 3, 6, 1]` into a set, the duplicate
 ---
 ## Part 5: Dictionaries
 
-
 * **Code File:** [Part5.py](Part5.py)
 * **Program Output:**
 
-![Part 5 Output](part5.png)
+![Part 5 Output](Part5.png)
 ---
 ## Final chalenge
 * **Code File:** [final.py](final.py)
