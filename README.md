@@ -5,13 +5,13 @@ This repository contains my solutions for all assignment tasks.
 ## part one
 * **Code File:** [Part1.py](Part1.py)
 * **Output Screenshot:**
-![Terminal Screenshot](Part1.PNG)
+![part1.png](part1.png)
 
 ---
 ## part Two
 * **Code File:** [Part2.py](Part2.py)
 * **Output Screenshot:**
-![Terminal Screenshot](Part2.PNG)
+![part2.png](Part2.PNG)
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part3.py](Part3.py)
 * **Program Output:**
 
-![Part 3 Output](Part3.png)
+![Part3.png](Part3.png)
 
 ### Why is a Tuple Different from a List?
 
@@ -39,7 +39,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part4.py](Part4.py)
 * **Program Output:**
 
-![Part 4 Output](Part4.png)
+![Part4.png](Part4.png)
 
 ### Why Did Some Values Disappear?
 
@@ -56,7 +56,7 @@ When converting the list `[1, 2, 3, 4, 2, 5, 3, 6, 1]` into a set, the duplicate
 * **Code File:** [Part5.py](Part5.py)
 * **Program Output:**
 
-![Part 5 Output](Part5.png)
+![Part5.png](Part5.png)
 
 ---
 ## Final chalenge
