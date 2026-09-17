@@ -2,17 +2,20 @@
 
 This repository contains my solutions for all assignment tasks.
 
-## part one
+## Part 1: Basic Variables
+
 * **Code File:** [Part1.py](Part1.py)
-* **Output Screenshot:**
-![part1 Output](part1.png)
+* **Program Output:**
+
+![Part 1 Output](Part1.png)
 
 ---
-## part Two
-* **Code File:** [Part2.py](Part2.py)
-* **Output Screenshot:**
-![part2 Output](Part2.PNG)
+## Part 2: List Operations
 
+* **Code File:** [Part2.py](Part2.py)
+* **Program Output:**
+
+![Part 2 Output](Part2.png)
 ---
 
 ## Part 3:Tuple
@@ -20,7 +23,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part3.py](Part3.py)
 * **Program Output:**
 
-![Part3 Output](Part3.png)
+![Part 3 Output](Part3.png)
 
 ### Why is a Tuple Different from a List?
 
@@ -39,7 +42,7 @@ This repository contains my solutions for all assignment tasks.
 * **Code File:** [Part4.py](Part4.py)
 * **Program Output:**
 
-![Part4 Output](Part4.png)
+![Part 4 Output](Part4.png)
 
 ### Why Did Some Values Disappear?
 
@@ -56,8 +59,7 @@ When converting the list `[1, 2, 3, 4, 2, 5, 3, 6, 1]` into a set, the duplicate
 * **Code File:** [Part5.py](Part5.py)
 * **Program Output:**
 
-![Part5 Output](Part5.png)
-
+![Part 5 Output](Part5.png)
 ---
 ## Final chalenge
 * **Code File:** [final.py](final.py)
@@ -81,6 +83,6 @@ When converting the list `[1, 2, 3, 4, 2, 5, 3, 6, 1]` into a set, the duplicate
 
 ---
 ## A short explanation of the difference between: List,Tuple, Set, Dictionary
-* **Code File:** [Short_explanation.txt](Short_explanation.txt)
+* **Code File:** [short_explanation.txt](short_explanation.txt)
 
 
