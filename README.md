@@ -86,3 +86,32 @@ When converting the list `[1, 2, 3, 4, 2, 5, 3, 6, 1]` into a set, the duplicate
 * **Code File:** [short_explanation.txt](short_explanation.txt)
 
 
+---
+## Interactive Terminal E-Commerce Cart & Inventory Tracker
+
+* **Code File:** [Interactive_Terminal.py](Interactive_Terminal.py)
+* **Program Output:**
+
+![Interactive_Terminal.png](Interactive_Terminal.png)
+
+
+---
+
+## Student Grade Evaluator & Class Performance Tracker
+
+* **Code File:** [Student_Grade_Evaluator.py](Student_Grade_Evaluator.py)
+* **Program Output:**
+
+![Student_Grade_Evaluator.png](Student_Grade_Evaluator.png)
+
+---
+
+## Backend Data Processing & User Audit Tool
+
+* **Code File:** [Backend_Data_Processing.py](Backend_Data_Processing.py)
+* **Program Output:**
+
+![Backend_Data_Processing.png](Backend_Data_Processing.png)
+
+---
+
